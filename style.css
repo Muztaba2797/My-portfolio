@@ -13,4 +13,14 @@ section{
 }
 .helf-width{
     width: 50%;
+
+}
+.helf-width image {
+    width: 80%;
+}
+.hire-me-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato );
+    padding: 10px 40px;
+    color: white;
 }
