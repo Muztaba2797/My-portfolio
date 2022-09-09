@@ -45,5 +45,16 @@ h3{
 .experiances {
     box-shadow: gray 10px 10px 10px;
     width: 50%;
-    padding-left: 10%;
+    padding: 10px 20px 10px 20px;
+    margin: 30px 50px;
+    border-radius: 5%;
+    border-left: 7px solid red;
+}
+.experiance-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+footer p { 
+    text-align: center;
+    font-size: 20px;
 }
