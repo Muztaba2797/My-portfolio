@@ -11,8 +11,9 @@ h1{
 h3{
     font-size: 40px;
 }
-section{
+.content_flex {
     display: flex;
+    margin-bottom: 50px;
 }
 
 .half-wide{
